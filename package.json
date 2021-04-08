@@ -1,6 +1,6 @@
 {
   "name": "harfbuzzjs-papandreou",
-  "version": "0.1.3",
+  "version": "0.1.3-patch1",
   "description": "Minimal version of HarfBuzz for JavaScript use",
   "main": "index.js",
   "scripts": {
